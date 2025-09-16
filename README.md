@@ -1,4 +1,4 @@
-# Data Engineering Training
+# Python GenAI Developer Training
 
 ## Other repo
 > https://github.com/KirkYagami/ps2-genai-trng
