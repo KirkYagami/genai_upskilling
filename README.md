@@ -5,11 +5,20 @@
 
 ----
 
+## Colab Notebooks:
+
+1. GenAI Basics: https://colab.research.google.com/drive/1hYDYolb7iMcQ9ERCE67LviBaOHbWBYw5?usp=sharing
+
+
+---
+
 ## Hugging Face
 ### Suggested Readings (Not in order):
 1. YT Tutorials:
     - https://youtu.be/QEaBAZQCtwE
     - https://www.youtube.com/watch?v=3kRB2TXewus
+
+---
 
 ## RAG
 
