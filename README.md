@@ -20,6 +20,17 @@
 
 ---
 
+
+
+## Prompt Engg
+### Suggested Readings (Not in order):
+
+1. System Message:
+- https://www.prompthub.us/blog/everything-system-messages-how-to-use-them-real-world-experiments-prompt-injection-protectors
+- https://medium.com/data-science-in-your-pocket/claudes-system-prompt-explained-d9b7989c38a3
+
+---
+
 ## RAG
 
 ![](drawings/rag3.png)
@@ -29,6 +40,7 @@
 - Langchain Rag Tutorial: https://medium.com/@dminhk/retrieval-augmented-generation-rag-explained-b1dd89979681
 
 - https://www.datacamp.com/blog/what-is-retrieval-augmented-generation-rag
+
 
 
 
