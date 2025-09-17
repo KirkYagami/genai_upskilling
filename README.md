@@ -42,6 +42,13 @@
 - https://www.datacamp.com/blog/what-is-retrieval-augmented-generation-rag
 
 
+---
+
+
+## Vector Databases:
+### Suggested Readings (Not in order):
+
+1. https://www.tigerdata.com/learn/postgresql-extensions-pgvector
 
 
 
