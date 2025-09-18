@@ -12,6 +12,22 @@
 
 ---
 
+## Transformers
+### Suggested Readings (Not in order):
+
+![](drawings/transformers_arch.png)
+
+1. https://poloclub.github.io/transformer-explainer/
+2. https://medium.com/@amanatulla1606/transformer-architecture-explained-2c49e2257b4c
+3. https://www.datacamp.com/tutorial/how-transformers-work
+
+
+
+
+
+
+---
+
 ## Hugging Face
 ### Suggested Readings (Not in order):
 1. YT Tutorials:
@@ -50,6 +66,9 @@
 
 1. https://www.tigerdata.com/learn/postgresql-extensions-pgvector
 
+### ChromaDB
+1. https://docs.trychroma.com/docs/querying-collections/query-and-get
+2. https://docs.trychroma.com/docs/querying-collections/full-text-search
 
 
 
