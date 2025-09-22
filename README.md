@@ -74,7 +74,13 @@
 ## LangChain:
 ### Suggested Readings (Not in order):
 
+#### Prompt Template
 1. https://medium.com/@shravankoninti/different-prompt-templates-using-langchain-3c8dd3aca3be
+
+#### Structured Output
+1. https://python.langchain.com/docs/concepts/structured_outputs/
+2. https://medium.com/@juanc.olamendy/parsing-llm-structured-outputs-in-langchain-a-comprehensive-guide-f05ffa88261f
+
 
 
 
