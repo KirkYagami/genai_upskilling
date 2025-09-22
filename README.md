@@ -24,7 +24,6 @@
 
 
 
-
 ---
 
 ## Hugging Face
@@ -69,6 +68,13 @@
 1. https://docs.trychroma.com/docs/querying-collections/query-and-get
 2. https://docs.trychroma.com/docs/querying-collections/full-text-search
 
+---
+
+
+## LangChain:
+### Suggested Readings (Not in order):
+
+1. https://medium.com/@shravankoninti/different-prompt-templates-using-langchain-3c8dd3aca3be
 
 
 
