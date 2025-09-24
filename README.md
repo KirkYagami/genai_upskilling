@@ -75,6 +75,21 @@
 #### Structured Output
 1. https://python.langchain.com/docs/concepts/structured_outputs/
 2. https://medium.com/@juanc.olamendy/parsing-llm-structured-outputs-in-langchain-a-comprehensive-guide-f05ffa88261f
+
+#### Agents intro
+
+1. https://readmedium.com/en/https:/medium.com/@prabhakaran_arivalagan/behind-the-scene-react-agents-in-langchain-4f7f48c2476d
+2. https://medium.com/@laylabitar321/unlock-the-power-of-react-based-langchain-agents-a-beginners-guide-62c8fc58c3c8
+ 
+
+
+## LangGraph:
+### Suggested Readings (Not in order):
+
+1. https://freedium.cfd/https://generativeai.pub/langgraph-tutorials-part-1-89e6a5adace9
+2. https://generativeai.pub/langgraph-tutorials-part-2-df5314593d6b
+
+
 ---
 
 <div align="center">
