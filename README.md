@@ -21,9 +21,6 @@
 3. https://www.datacamp.com/tutorial/how-transformers-work
 
 
-
-
-
 ---
 
 ## Hugging Face
@@ -33,7 +30,6 @@
     - https://www.youtube.com/watch?v=3kRB2TXewus
 
 ---
-
 
 
 ## Prompt Engg
@@ -70,7 +66,6 @@
 
 ---
 
-
 ## LangChain:
 ### Suggested Readings (Not in order):
 
@@ -80,18 +75,6 @@
 #### Structured Output
 1. https://python.langchain.com/docs/concepts/structured_outputs/
 2. https://medium.com/@juanc.olamendy/parsing-llm-structured-outputs-in-langchain-a-comprehensive-guide-f05ffa88261f
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 <div align="center">
