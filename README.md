@@ -89,6 +89,7 @@
 1. https://freedium.cfd/https://generativeai.pub/langgraph-tutorials-part-1-89e6a5adace9
 2. https://generativeai.pub/langgraph-tutorials-part-2-df5314593d6b
 3. https://freedium.cfd/https://medium.com/@kbdhunga/implementing-human-in-the-loop-with-langgraph-ccfde023385c
+4. https://langchain-ai.github.io/langgraph/tutorials/get-started/4-human-in-the-loop/
 
 ---
 
